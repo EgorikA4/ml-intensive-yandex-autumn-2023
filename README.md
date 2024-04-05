@@ -1,3 +1,3 @@
 # ml-intensive-yandex-autumn-2023
 
-## [Competion on Kaggle]("https://www.kaggle.com/competitions/ml-intensive-yandex-autumn-2023/overview") - Team ML13
+## <a href="https://www.kaggle.com/competitions/ml-intensive-yandex-autumn-2023/overview">Competition on Kaggle</a> - Team ML13
